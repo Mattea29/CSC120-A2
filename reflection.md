@@ -1,3 +1,5 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+
+I worked a little bit with another classmate (Jordan K) on setting up the computer class, which I definitely think helped a lot because we came to a concensus on which methods we thought belonged where. Generally, my code works as I want it to, and I think it is somewhat logically construcuted. On the other hand, I found it very difficult to comment my code because I'm not used to it and I don't know what it considered too much or not enough. I also think that some of my methods were a bit long and could definitely be done in less lines of code, but I don't know those shortcuts yet. I would tell someone to try writing out the classes and steps necessary and try sorting things to figure out where they want certain attributes and methods to fall. I would also tell someone to commit their changes often. I didn't really commit mine until I was basically done, which was very unwise of me because I could have easily lost all my work that took quite a long time to figure out. 
